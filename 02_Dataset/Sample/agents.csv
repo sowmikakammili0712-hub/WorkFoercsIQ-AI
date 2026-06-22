@@ -1,101 +1,101 @@
 AgentID,AgentName,Team,Region,ExperienceLevel,HireDate,AgentCostPerHour,CapacityHoursPerWeek,TargetTicketsPerWeek,UtilizationTarget,ActualTicketsHandled,ActualHoursWorked,UtilizationPercent,CostPerTicket
-AG001,Colin Douglas,Tier1,North America,Senior,2022-09-05,40,45,75,80,91,46.8,104.0,20.57
-AG002,Tiffany Collins,Tier1,APAC,Junior,2024-11-11,15,35,100,75,54,30.79,87.97,8.55
-AG003,William Peters MD,Tier2,North America,Senior,2022-03-01,40,35,50,80,111,25.84,73.83,9.31
-AG004,Steven Gross,Tier3,APAC,Junior,2022-08-25,15,35,100,80,100,29.69,84.83,4.45
-AG005,Kirk Mitchell,Tier3,APAC,Senior,2025-10-10,40,45,75,80,60,43.54,96.76,29.03
-AG006,Jesse Scott,Tier3,Europe,Mid,2023-02-13,25,35,50,90,114,33.82,96.63,7.42
-AG007,Diana Gibson,Tier2,North America,Mid,2023-03-14,25,35,75,75,114,32.78,93.66,7.19
-AG008,Kristie Contreras,Tier2,North America,Junior,2023-03-04,15,40,75,85,63,32.4,81.0,7.71
-AG009,Courtney Medina,Tier3,Europe,Junior,2021-11-01,15,45,50,90,42,41.6,92.44,14.86
-AG010,Scott Bennett,Tier3,Europe,Junior,2026-06-16,15,45,100,85,61,38.39,85.31,9.44
-AG011,Katherine Maynard,Tier1,APAC,Senior,2024-01-10,40,35,50,80,92,38.1,108.86,16.57
-AG012,Casey Obrien,Tier1,North America,Mid,2024-04-08,25,35,75,85,41,36.38,103.94,22.18
-AG013,John Miller,Tier3,Europe,Mid,2025-06-12,25,35,75,85,69,34.6,98.86,12.54
-AG014,Michelle Thompson,Tier3,Europe,Junior,2025-05-27,15,45,100,75,77,35.75,79.44,6.96
-AG015,Alexander Hernandez,Tier3,North America,Senior,2023-09-22,40,45,100,80,41,36.11,80.24,35.23
-AG016,Shawn Wilson,Tier2,Europe,Junior,2025-09-18,15,40,100,80,103,28.65,71.62,4.17
-AG017,David Anderson,Tier2,North America,Senior,2026-04-12,40,35,50,85,99,34.45,98.43,13.92
-AG018,Michelle Mullins,Tier2,North America,Mid,2025-06-14,25,35,100,85,60,26.05,74.43,10.85
-AG019,Brian Mills,Tier3,Europe,Junior,2022-01-15,15,40,100,90,72,35.03,87.58,7.3
-AG020,Martin Levy,Tier2,North America,Junior,2024-03-24,15,35,100,85,115,27.32,78.06,3.56
-AG021,Michael Alvarez,Tier3,Europe,Senior,2026-05-28,40,45,75,85,97,47.62,105.82,19.64
-AG022,Louis Hayes,Tier1,APAC,Junior,2022-08-05,15,40,50,75,61,35.61,89.02,8.76
-AG023,Jennifer Perez,Tier1,APAC,Junior,2023-09-12,15,35,100,90,88,32.39,92.54,5.52
-AG024,Alan Holland,Tier1,Europe,Senior,2026-02-10,40,40,100,90,98,39.13,97.82,15.97
-AG025,Kimberly Holder,Tier2,APAC,Senior,2021-11-15,40,35,100,75,81,26.45,75.57,13.06
-AG026,Kelly Garcia,Tier3,Europe,Senior,2023-10-15,40,45,75,75,99,42.38,94.18,17.12
-AG027,John Jones,Tier2,North America,Mid,2024-12-08,25,40,50,85,119,36.64,91.6,7.7
-AG028,Tyler Cox,Tier1,APAC,Senior,2022-08-18,40,35,100,85,54,27.34,78.11,20.25
-AG029,Amanda Williams,Tier3,APAC,Senior,2022-07-05,40,35,50,85,101,37.7,107.71,14.93
-AG030,Michael Santos,Tier3,APAC,Junior,2024-09-06,15,35,100,85,101,32.88,93.94,4.88
-AG031,William Meyer,Tier1,North America,Mid,2023-07-14,25,40,75,80,86,39.12,97.8,11.37
-AG032,Richard Wright,Tier1,APAC,Junior,2022-09-10,15,35,50,90,101,36.83,105.23,5.47
-AG033,Matthew Smith,Tier3,North America,Junior,2021-06-21,15,35,100,90,90,33.24,94.97,5.54
-AG034,Russell Kaufman,Tier1,Europe,Senior,2022-09-07,40,45,100,90,94,36.82,81.82,15.67
-AG035,Shane Gutierrez,Tier3,APAC,Junior,2025-08-11,15,45,50,85,103,33.4,74.22,4.86
-AG036,Ashley Rodriguez,Tier3,APAC,Mid,2024-03-11,25,40,75,90,42,35.3,88.25,21.01
-AG037,David Griffin,Tier1,North America,Junior,2024-01-03,15,35,75,75,90,27.56,78.74,4.59
-AG038,Jeremy Shea,Tier3,North America,Senior,2025-02-11,40,45,50,75,46,39.0,86.67,33.91
-AG039,Christine Mejia,Tier3,APAC,Junior,2025-02-26,15,35,50,75,60,36.87,105.34,9.22
-AG040,Kimberly Hoffman,Tier2,North America,Junior,2026-01-17,15,45,50,85,112,37.34,82.98,5.0
-AG041,Karen Green,Tier2,North America,Senior,2021-11-15,40,45,50,90,78,33.7,74.89,17.28
-AG042,Jeffrey Schultz,Tier2,Europe,Junior,2026-05-17,15,35,50,75,57,29.49,84.26,7.76
-AG043,Ashley Moore,Tier2,Europe,Senior,2024-09-07,40,40,75,90,43,42.51,106.28,39.54
-AG044,Rebecca Esparza,Tier1,APAC,Senior,2025-11-27,40,45,100,75,99,36.4,80.89,14.71
-AG045,James Blanchard,Tier2,APAC,Junior,2021-12-22,15,40,50,80,53,38.36,95.9,10.86
-AG046,Alexis Martin,Tier1,APAC,Junior,2024-10-16,15,40,50,90,48,28.01,70.03,8.75
-AG047,Andrew Carr,Tier2,Europe,Junior,2023-09-24,15,35,50,90,92,29.44,84.11,4.8
-AG048,William Green,Tier1,North America,Senior,2025-02-08,40,45,100,75,41,36.99,82.2,36.09
-AG049,Juan Carr,Tier1,North America,Junior,2025-07-05,15,40,75,90,99,30.63,76.57,4.64
-AG050,Eric Smith,Tier2,North America,Junior,2023-08-06,15,35,75,75,110,31.98,91.37,4.36
-AG051,Jaime Simmons,Tier2,Europe,Mid,2024-06-26,25,40,75,90,83,35.76,89.4,10.77
-AG052,William Howell,Tier1,Europe,Junior,2026-02-02,15,35,50,75,47,34.19,97.69,10.91
-AG053,Tabitha Whitaker,Tier2,North America,Senior,2026-02-01,40,35,100,90,86,28.27,80.77,13.15
-AG054,Kim Sanders,Tier3,North America,Senior,2025-10-13,40,35,100,75,74,27.92,79.77,15.09
-AG055,Cynthia Bass,Tier1,APAC,Junior,2024-10-23,15,35,100,80,117,26.86,76.74,3.44
-AG056,Johnathan Williams,Tier1,APAC,Mid,2022-11-04,25,35,100,75,75,27.56,78.74,9.19
-AG057,Tara Wade,Tier1,Europe,Senior,2023-06-22,40,45,100,85,89,41.55,92.33,18.67
-AG058,Jordan Ramirez,Tier1,APAC,Mid,2025-10-13,25,45,75,80,43,38.77,86.16,22.54
-AG059,Angel Caldwell,Tier2,North America,Mid,2025-08-09,25,45,100,85,41,32.67,72.6,19.92
-AG060,Michelle Brown,Tier2,North America,Mid,2022-07-15,25,35,75,75,45,28.05,80.14,15.58
-AG061,Dana Campbell,Tier3,North America,Junior,2026-04-30,15,45,75,80,93,35.94,79.87,5.8
-AG062,Jason Reeves,Tier1,North America,Mid,2023-01-28,25,40,75,80,43,39.14,97.85,22.76
-AG063,Tina Savage,Tier3,APAC,Mid,2022-03-17,25,40,100,75,93,39.4,98.5,10.59
-AG064,Brad Peck,Tier3,Europe,Senior,2024-02-08,40,45,50,80,102,34.17,75.93,13.4
-AG065,Brandy Jones,Tier1,North America,Mid,2022-04-16,25,45,100,80,57,49.46,109.91,21.69
-AG066,Jason Zimmerman,Tier2,APAC,Mid,2023-06-10,25,35,100,85,83,28.23,80.66,8.5
-AG067,Bruce Manning,Tier3,APAC,Junior,2024-07-13,15,40,100,90,73,43.63,109.08,8.97
-AG068,Jaime Foley,Tier1,North America,Mid,2025-07-18,25,45,75,85,113,38.9,86.44,8.61
-AG069,Jessica Wilcox,Tier1,Europe,Junior,2024-11-24,15,35,100,85,101,24.96,71.31,3.71
-AG070,Michael Harris,Tier3,Europe,Junior,2024-12-12,15,45,100,90,53,37.71,83.8,10.67
-AG071,Jeffrey Roy,Tier1,North America,Senior,2021-12-29,40,35,100,80,87,33.38,95.37,15.35
-AG072,Stacey Page,Tier1,Europe,Senior,2022-04-05,40,45,100,80,54,43.75,97.22,32.41
-AG073,Jessica Williams,Tier1,North America,Mid,2024-06-02,25,40,75,75,111,36.49,91.22,8.22
-AG074,Patricia Johnson,Tier1,APAC,Mid,2023-09-07,25,35,100,75,117,30.77,87.91,6.57
-AG075,Michael Buchanan,Tier3,Europe,Mid,2023-04-29,25,45,100,80,101,41.45,92.11,10.26
-AG076,Peggy Aguilar MD,Tier1,North America,Junior,2023-01-26,15,40,50,80,79,37.48,93.7,7.12
-AG077,Melissa Reyes,Tier2,Europe,Senior,2025-03-21,40,45,100,80,119,32.96,73.24,11.08
-AG078,Stephanie Horn,Tier1,APAC,Mid,2023-06-25,25,35,75,75,92,29.68,84.8,8.07
-AG079,Debra Williams,Tier1,North America,Mid,2024-01-02,25,40,75,85,63,31.87,79.68,12.65
-AG080,Lauren Colon,Tier1,North America,Junior,2022-09-12,15,45,50,90,65,45.96,102.13,10.61
-AG081,Kenneth Santos,Tier2,North America,Mid,2022-10-25,25,40,75,90,99,35.52,88.8,8.97
-AG082,Kaitlin Hardy,Tier3,Europe,Senior,2026-02-24,40,35,50,85,80,38.27,109.34,19.14
-AG083,Robin Rodriguez,Tier3,Europe,Junior,2025-07-10,15,35,50,90,68,30.08,85.94,6.64
-AG084,Amanda Lopez,Tier3,Europe,Mid,2021-10-04,25,40,100,75,54,41.06,102.65,19.01
-AG085,Krystal Rodriguez,Tier3,North America,Mid,2021-11-13,25,40,50,90,84,40.77,101.92,12.13
-AG086,Patrick Mueller,Tier3,APAC,Junior,2022-11-05,15,45,100,80,104,34.21,76.02,4.93
-AG087,Jason Thompson,Tier2,North America,Mid,2024-02-05,25,45,75,85,110,40.65,90.33,9.24
-AG088,William Marquez,Tier1,APAC,Senior,2023-01-12,40,40,100,85,48,39.13,97.82,32.61
-AG089,Randy Welch,Tier2,Europe,Senior,2022-09-21,40,40,100,85,40,41.73,104.32,41.73
-AG090,Heather Jones,Tier1,North America,Senior,2023-03-27,40,40,100,90,47,33.22,83.05,28.27
-AG091,Christine Davis,Tier3,North America,Senior,2025-11-19,40,45,100,85,102,35.46,78.8,13.91
-AG092,Jose Leonard,Tier3,North America,Mid,2024-09-18,25,40,75,80,50,39.38,98.45,19.69
-AG093,Danielle Ferguson,Tier3,APAC,Mid,2021-07-04,25,45,75,90,47,46.07,102.38,24.51
-AG094,James Thomas,Tier2,APAC,Mid,2024-07-27,25,35,100,90,74,29.38,83.94,9.93
-AG095,James Ford,Tier1,APAC,Senior,2023-09-27,40,35,75,85,74,25.85,73.86,13.97
-AG096,Jaime Brown,Tier1,APAC,Junior,2025-07-24,15,40,50,80,72,43.05,107.62,8.97
-AG097,Alicia Bryan,Tier1,North America,Junior,2025-03-04,15,35,75,75,44,30.07,85.91,10.25
-AG098,Mary Rosario,Tier2,APAC,Mid,2024-12-14,25,45,50,90,80,40.82,90.71,12.76
-AG099,Rose Robles,Tier2,North America,Mid,2022-04-29,25,35,100,75,67,36.23,103.51,13.52
-AG100,Heather Burch,Tier2,North America,Junior,2024-10-13,15,35,100,90,46,33.96,97.03,11.07
+AG001,Hannah Snyder,Tier1,North America,Senior,2025-09-15,40,45,75,80,91,46.8,104.0,20.57
+AG002,Judy Wong,Tier1,APAC,Junior,2022-03-12,15,35,100,75,54,30.79,87.97,8.55
+AG003,Michelle Nelson,Tier2,North America,Senior,2021-11-02,40,35,50,80,111,25.84,73.83,9.31
+AG004,Jennifer Kelly,Tier3,APAC,Junior,2026-02-27,15,35,100,80,100,29.69,84.83,4.45
+AG005,James Kelly,Tier3,APAC,Senior,2023-07-08,40,45,75,80,60,43.54,96.76,29.03
+AG006,Christopher Rowe,Tier3,Europe,Mid,2023-11-21,25,35,50,90,114,33.82,96.63,7.42
+AG007,Elijah Johnson,Tier2,North America,Mid,2022-12-09,25,35,75,75,114,32.78,93.66,7.19
+AG008,Kaitlyn Schwartz,Tier2,North America,Junior,2023-04-10,15,40,75,85,63,32.4,81.0,7.71
+AG009,Gwendolyn Simpson,Tier3,Europe,Junior,2022-09-03,15,45,50,90,42,41.6,92.44,14.86
+AG010,Katherine Wilcox,Tier3,Europe,Junior,2026-04-25,15,45,100,85,61,38.39,85.31,9.44
+AG011,Kristi Simmons,Tier1,APAC,Senior,2024-02-05,40,35,50,80,92,38.1,108.86,16.57
+AG012,Benjamin Brown,Tier1,North America,Mid,2023-02-18,25,35,75,85,41,36.38,103.94,22.18
+AG013,Terry Pena,Tier3,Europe,Mid,2022-03-16,25,35,75,85,69,34.6,98.86,12.54
+AG014,Amy Snow,Tier3,Europe,Junior,2021-06-28,15,45,100,75,77,35.75,79.44,6.96
+AG015,Ronald Shelton,Tier3,North America,Senior,2026-04-17,40,45,100,80,41,36.11,80.24,35.23
+AG016,Timothy Sawyer,Tier2,Europe,Junior,2023-04-08,15,40,100,80,103,28.65,71.62,4.17
+AG017,Michael Thompson,Tier2,North America,Senior,2023-07-18,40,35,50,85,99,34.45,98.43,13.92
+AG018,Kenneth Montgomery,Tier2,North America,Mid,2026-05-19,25,35,100,85,60,26.05,74.43,10.85
+AG019,Tracey Carter,Tier3,Europe,Junior,2025-11-24,15,40,100,90,72,35.03,87.58,7.3
+AG020,Shannon Booth,Tier2,North America,Junior,2024-02-04,15,35,100,85,115,27.32,78.06,3.56
+AG021,Caleb Ross,Tier3,Europe,Senior,2024-02-29,40,45,75,85,97,47.62,105.82,19.64
+AG022,Dana Espinoza,Tier1,APAC,Junior,2026-03-26,15,40,50,75,61,35.61,89.02,8.76
+AG023,Chris Barr,Tier1,APAC,Junior,2023-10-20,15,35,100,90,88,32.39,92.54,5.52
+AG024,Anne Murphy,Tier1,Europe,Senior,2024-11-11,40,40,100,90,98,39.13,97.82,15.97
+AG025,Steven Spencer,Tier2,APAC,Senior,2025-12-12,40,35,100,75,81,26.45,75.57,13.06
+AG026,Ashley Graves,Tier3,Europe,Senior,2024-08-17,40,45,75,75,99,42.38,94.18,17.12
+AG027,April Padilla,Tier2,North America,Mid,2022-03-29,25,40,50,85,119,36.64,91.6,7.7
+AG028,James Gutierrez,Tier1,APAC,Senior,2023-06-07,40,35,100,85,54,27.34,78.11,20.25
+AG029,Ronald Rivera,Tier3,APAC,Senior,2024-01-26,40,35,50,85,101,37.7,107.71,14.93
+AG030,Lisa Thomas,Tier3,APAC,Junior,2023-06-09,15,35,100,85,101,32.88,93.94,4.88
+AG031,James Gutierrez,Tier1,North America,Mid,2024-04-02,25,40,75,80,86,39.12,97.8,11.37
+AG032,Daniel Russell,Tier1,APAC,Junior,2021-09-16,15,35,50,90,101,36.83,105.23,5.47
+AG033,Anthony Jensen,Tier3,North America,Junior,2022-03-25,15,35,100,90,90,33.24,94.97,5.54
+AG034,Mrs. Amanda Wagner,Tier1,Europe,Senior,2024-12-01,40,45,100,90,94,36.82,81.82,15.67
+AG035,Michele Charles,Tier3,APAC,Junior,2024-06-05,15,45,50,85,103,33.4,74.22,4.86
+AG036,James Clark,Tier3,APAC,Mid,2023-10-23,25,40,75,90,42,35.3,88.25,21.01
+AG037,Alyssa Nguyen,Tier1,North America,Junior,2022-06-10,15,35,75,75,90,27.56,78.74,4.59
+AG038,Lance Ball,Tier3,North America,Senior,2021-07-26,40,45,50,75,46,39.0,86.67,33.91
+AG039,Paul Stone,Tier3,APAC,Junior,2023-02-24,15,35,50,75,60,36.87,105.34,9.22
+AG040,Melanie Wright,Tier2,North America,Junior,2025-02-09,15,45,50,85,112,37.34,82.98,5.0
+AG041,Eric Lam,Tier2,North America,Senior,2024-12-08,40,45,50,90,78,33.7,74.89,17.28
+AG042,Taylor Gonzalez,Tier2,Europe,Junior,2023-03-11,15,35,50,75,57,29.49,84.26,7.76
+AG043,Michael Moore,Tier2,Europe,Senior,2024-01-27,40,40,75,90,43,42.51,106.28,39.54
+AG044,Mckenzie Ware,Tier1,APAC,Senior,2025-06-15,40,45,100,75,99,36.4,80.89,14.71
+AG045,Elizabeth Schroeder,Tier2,APAC,Junior,2024-09-13,15,40,50,80,53,38.36,95.9,10.86
+AG046,Jeffery Jackson,Tier1,APAC,Junior,2024-03-01,15,40,50,90,48,28.01,70.03,8.75
+AG047,Michael Campbell,Tier2,Europe,Junior,2024-03-08,15,35,50,90,92,29.44,84.11,4.8
+AG048,Edward Tucker,Tier1,North America,Senior,2023-06-29,40,45,100,75,41,36.99,82.2,36.09
+AG049,Paul Martin,Tier1,North America,Junior,2025-06-09,15,40,75,90,99,30.63,76.57,4.64
+AG050,Kathleen Brennan,Tier2,North America,Junior,2022-08-24,15,35,75,75,110,31.98,91.37,4.36
+AG051,John Wilkerson,Tier2,Europe,Mid,2025-07-21,25,40,75,90,83,35.76,89.4,10.77
+AG052,Bobby Bass,Tier1,Europe,Junior,2026-02-27,15,35,50,75,47,34.19,97.69,10.91
+AG053,Jason Mason,Tier2,North America,Senior,2025-07-05,40,35,100,90,86,28.27,80.77,13.15
+AG054,Emily Ware,Tier3,North America,Senior,2021-12-16,40,35,100,75,74,27.92,79.77,15.09
+AG055,Samuel Rodriguez,Tier1,APAC,Junior,2026-02-25,15,35,100,80,117,26.86,76.74,3.44
+AG056,Annette Wang,Tier1,APAC,Mid,2025-12-31,25,35,100,75,75,27.56,78.74,9.19
+AG057,Matthew Martin,Tier1,Europe,Senior,2022-10-02,40,45,100,85,89,41.55,92.33,18.67
+AG058,Kelly Morris,Tier1,APAC,Mid,2021-10-30,25,45,75,80,43,38.77,86.16,22.54
+AG059,Christopher Lopez,Tier2,North America,Mid,2021-11-07,25,45,100,85,41,32.67,72.6,19.92
+AG060,Adam King,Tier2,North America,Mid,2023-04-20,25,35,75,75,45,28.05,80.14,15.58
+AG061,Nicole Davis,Tier3,North America,Junior,2025-12-28,15,45,75,80,93,35.94,79.87,5.8
+AG062,Erin Jones,Tier1,North America,Mid,2026-01-21,25,40,75,80,43,39.14,97.85,22.76
+AG063,Denise Wells,Tier3,APAC,Mid,2022-06-01,25,40,100,75,93,39.4,98.5,10.59
+AG064,Mark Evans,Tier3,Europe,Senior,2021-07-23,40,45,50,80,102,34.17,75.93,13.4
+AG065,Daniel Martin,Tier1,North America,Mid,2022-06-12,25,45,100,80,57,49.46,109.91,21.69
+AG066,Krista Delgado,Tier2,APAC,Mid,2022-12-23,25,35,100,85,83,28.23,80.66,8.5
+AG067,James Myers,Tier3,APAC,Junior,2026-04-07,15,40,100,90,73,43.63,109.08,8.97
+AG068,Richard Sexton,Tier1,North America,Mid,2022-03-28,25,45,75,85,113,38.9,86.44,8.61
+AG069,Rebecca Snyder,Tier1,Europe,Junior,2024-04-03,15,35,100,85,101,24.96,71.31,3.71
+AG070,Elizabeth Oneal,Tier3,Europe,Junior,2022-12-13,15,45,100,90,53,37.71,83.8,10.67
+AG071,Ryan Murillo,Tier1,North America,Senior,2023-11-19,40,35,100,80,87,33.38,95.37,15.35
+AG072,Carrie Rich,Tier1,Europe,Senior,2025-06-04,40,45,100,80,54,43.75,97.22,32.41
+AG073,David Hays,Tier1,North America,Mid,2023-08-11,25,40,75,75,111,36.49,91.22,8.22
+AG074,Carol Kane,Tier1,APAC,Mid,2022-12-22,25,35,100,75,117,30.77,87.91,6.57
+AG075,Stacey Marshall,Tier3,Europe,Mid,2021-06-27,25,45,100,80,101,41.45,92.11,10.26
+AG076,Robert Stone DVM,Tier1,North America,Junior,2024-10-03,15,40,50,80,79,37.48,93.7,7.12
+AG077,Theresa Hill,Tier2,Europe,Senior,2022-01-01,40,45,100,80,119,32.96,73.24,11.08
+AG078,Joshua Doyle,Tier1,APAC,Mid,2024-04-17,25,35,75,75,92,29.68,84.8,8.07
+AG079,Lisa Frazier,Tier1,North America,Mid,2023-05-27,25,40,75,85,63,31.87,79.68,12.65
+AG080,Tracy Johnson,Tier1,North America,Junior,2022-08-15,15,45,50,90,65,45.96,102.13,10.61
+AG081,Luis Medina,Tier2,North America,Mid,2024-09-27,25,40,75,90,99,35.52,88.8,8.97
+AG082,Brandon Simmons,Tier3,Europe,Senior,2023-05-21,40,35,50,85,80,38.27,109.34,19.14
+AG083,Jose Wilson,Tier3,Europe,Junior,2021-07-15,15,35,50,90,68,30.08,85.94,6.64
+AG084,Corey Price,Tier3,Europe,Mid,2022-12-14,25,40,100,75,54,41.06,102.65,19.01
+AG085,Timothy Ortiz,Tier3,North America,Mid,2026-04-27,25,40,50,90,84,40.77,101.92,12.13
+AG086,Madison Berg,Tier3,APAC,Junior,2024-10-25,15,45,100,80,104,34.21,76.02,4.93
+AG087,Alexa Vazquez,Tier2,North America,Mid,2022-02-20,25,45,75,85,110,40.65,90.33,9.24
+AG088,James Day,Tier1,APAC,Senior,2024-10-17,40,40,100,85,48,39.13,97.82,32.61
+AG089,Jerome Dillon,Tier2,Europe,Senior,2023-01-31,40,40,100,85,40,41.73,104.32,41.73
+AG090,Angela Webb,Tier1,North America,Senior,2024-06-06,40,40,100,90,47,33.22,83.05,28.27
+AG091,Victoria Perkins,Tier3,North America,Senior,2024-10-05,40,45,100,85,102,35.46,78.8,13.91
+AG092,Julie Ferrell,Tier3,North America,Mid,2021-11-02,25,40,75,80,50,39.38,98.45,19.69
+AG093,Michael Contreras,Tier3,APAC,Mid,2023-11-26,25,45,75,90,47,46.07,102.38,24.51
+AG094,Jason Garrett,Tier2,APAC,Mid,2023-12-18,25,35,100,90,74,29.38,83.94,9.93
+AG095,Elizabeth Vasquez,Tier1,APAC,Senior,2023-04-09,40,35,75,85,74,25.85,73.86,13.97
+AG096,Sheri Nguyen,Tier1,APAC,Junior,2026-05-27,15,40,50,80,72,43.05,107.62,8.97
+AG097,Angela Gonzalez,Tier1,North America,Junior,2022-06-13,15,35,75,75,44,30.07,85.91,10.25
+AG098,Nicole Tanner,Tier2,APAC,Mid,2025-02-02,25,45,50,90,80,40.82,90.71,12.76
+AG099,Timothy Lee,Tier2,North America,Mid,2024-11-23,25,35,100,75,67,36.23,103.51,13.52
+AG100,Miranda Austin,Tier2,North America,Junior,2023-04-15,15,35,100,90,46,33.96,97.03,11.07

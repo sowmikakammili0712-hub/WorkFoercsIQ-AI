@@ -133,6 +133,47 @@ for i in range(100):
     agents.append(agent)
 
 agents_df = pd.DataFrame(agents)
+dim_agent = agents_df.copy()
+dim_agent.to_csv(
+    "02_Dataset/Dimensions/dim_agent.csv",
+    index=False
+)
+dim_queue = pd.DataFrame({
+    "QueueName": queues
+})
+dim_queue.to_csv(
+    "02_Dataset/Dimensions/dim_queue.csv",
+    index=False
+)
+dim_region = pd.DataFrame({
+    "RegionName": customer_regions
+})
+dim_region.to_csv(
+    "02_Dataset/Dimensions/dim_region.csv",
+    index=False
+)
+date_range = pd.date_range(
+    start="2025-01-01",
+    end="2026-12-31"
+)
+dim_date = pd.DataFrame({
+    "Date": date_range
+})
+dim_date["Year"] = dim_date["Date"].dt.year
+
+dim_date["Month"] = dim_date["Date"].dt.month
+
+dim_date["MonthName"] = dim_date["Date"].dt.strftime("%B")
+
+dim_date["Quarter"] = (
+    "Q"
+    +
+    dim_date["Date"].dt.quarter.astype(str)
+)
+dim_date.to_csv(
+    "02_Dataset/Dimensions/dim_date.csv",
+    index=False
+)
 agents_df["ActualTicketsHandled"] = np.random.randint(
     40,
     120,
